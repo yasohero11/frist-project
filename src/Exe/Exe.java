@@ -1,7 +1,7 @@
 package Exe;
 
 import java.util.Scanner;
-
+//Youssef updated
 public class Exe {
 	public static Scanner input = new Scanner(System.in);
 	static int  price  , Amount;;
